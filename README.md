@@ -1,0 +1,2 @@
+# Module-diagrams
+Схемы модулей
